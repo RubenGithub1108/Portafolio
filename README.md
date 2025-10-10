@@ -28,7 +28,7 @@ Proyecto de procesamiento de datos y análisis de sentimiento en Twitter usando 
 Python (Pandas, NumPy, Scikit-learn, TensorFlow), Jupyter Notebook, Matplotlib, Seaborn.
 
 **Código fuente:**  
-[Repositorio Sentiment140](https://github.com/RubenPalma1108/Sentiment140)
+[Repositorio Sentiment140](https://github.com/RubenPalma1108/An-lisis-de-Sentimientos-en-Tweets)
 
 **Reflexión:**  
 Este proyecto me permitió dominar el análisis de texto, experimentar con distintos algoritmos y fortalecer habilidades en visualización y evaluación de proyectos de NLP.
